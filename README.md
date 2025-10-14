@@ -18,10 +18,9 @@ I'm building AI products that solve real problems. Currently working on:
 
 ### Current Focus
 Building a portfolio of AI PM projects over 90 days
-## Hi there 👋
 
 <!--
-**Charles27w/Charles27w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Charles27w/Charles27w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 
 Here are some ideas to get you started:
 
