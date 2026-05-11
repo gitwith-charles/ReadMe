@@ -8,7 +8,7 @@
 ### 🏗️ Occasionally I build things <br>
 
 
-#### Feel free to look around 🧐
+#### Feel free to look around 🧐. 
 
 
 
