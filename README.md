@@ -1,23 +1,16 @@
-# Hi, I'm Charles 👋
 
-## AI Product Manager
 
-I'm building AI products that solve real problems. Currently working on:
-- 🤖 AI Prompt Library for Product Managers
-- ⚙️ AI Workflow Automations
-- 🚀 AI Product Prototypes
+### Welcome to my space <br>
+### 📚 I read stuff <br>
+### 🧠 I Think a lot <br>
+### 🛠️ I Tinker with software & AI <br>
+### 💭 Sometimes I share ideas <br>
+### 🏗️ Occasionally I build things <br>
 
-### Skills
-- AI Product Strategy
-- Prompt Engineering
-- Product Management
-- AI Tool Integration
 
-### Connect with me
-- 💼 https://www.linkedin.com/in/charles-weldon
+#### Feel free to look around 🧐
 
-### Current Focus
-Building a portfolio of AI PM projects over 90 days
+
 
 <!--
 **Charles27w/Charles27w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
