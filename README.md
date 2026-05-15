@@ -1,6 +1,5 @@
+# Git to Know Me <br>
 
-
-### Welcome to my space <br>
 ### 📚 I read stuff <br>
 ### 🧠 I Think a lot <br>
 ### 🛠️ I Tinker with software & AI <br>
